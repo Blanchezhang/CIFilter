@@ -7,9 +7,7 @@
 //
 
 #import "AppDelegate.h"
-//测试
 //dev
-//int
 @interface AppDelegate ()
 
 @end
